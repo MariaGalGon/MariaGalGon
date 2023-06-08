@@ -8,6 +8,8 @@ In this repo ([Practicas](https://github.com/MariaGalGon/Practicas.git)) you can
 
 09/2018 - 06/2022 | Computer Engineering Degree (mention in Software Engineering)
 
+09/2022 - 06/2024 | European Master in Software Engineering
+
 05/2019 | C1 English level certified by Cambridge
 
 ### 💻 Languages and Technologies
@@ -32,5 +34,3 @@ In this repo ([Practicas](https://github.com/MariaGalGon/Practicas.git)) you can
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-
-
